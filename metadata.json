@@ -1,0 +1,6 @@
+{
+  "name": "Library Chap Chap",
+  "description": "Secure, enterprise-grade Library Management System with OWASP security controls, role-based access for Admin and Students, catalog management, book issuance, request tracking, and responsive modern UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
